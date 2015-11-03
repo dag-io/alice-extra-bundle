@@ -1,0 +1,20 @@
+{
+    "name": "dag-io/alice-extra-bundle",
+    "description": "Alice extra bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damien Gavard",
+            "email": "damien.gavard@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DAG\\Bundle\\AliceExtraBundle\\": ""
+        }
+    }
+}
